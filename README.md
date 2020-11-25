@@ -1,5 +1,7 @@
 # vr-fps-shooter-project
 
+Virtual reality first person shooter game that was developed on Unity and is playable on the Google Cardboard.
+
 Demo video on Youtube: https://youtu.be/wf9fPOaW1Ok
 
 ## Instructions on how to run the project
