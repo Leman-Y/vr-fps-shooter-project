@@ -1,5 +1,7 @@
 # vr-fps-shooter-project
 
+Demo video on Youtube: https://youtu.be/wf9fPOaW1Ok
+
 ## Instructions on how to run the project
 
 ### Prerequisites
