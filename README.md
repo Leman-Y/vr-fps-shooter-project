@@ -22,5 +22,9 @@ Demo video on Youtube: https://youtu.be/wf9fPOaW1Ok
 You can also demo the game via the Unity Editor Play In Tab:
 1. Click on the play tab
 2. You can maximize on play and mute the audio if you like
-3. Hold alt and use the mouse to look around in the game
-4. Press mouse left click button to shoot
+
+### User actions
+1. Hold alt and use the mouse to look around in the game or look around with your head on the Google cardboard
+2. Press mouse left click button or Google Cardboard button to shoot
+3. You can interact with the signs by clicking on them via mouse left click or Google cardboard button
+
